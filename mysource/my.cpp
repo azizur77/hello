@@ -57,7 +57,7 @@ int Array<T>::GetLength() { return m_nLength; }
 
 
 int main()
-{
+{cout << "good" ;
     Array<int> anArray(12);
     Array<double> adArray(12);
 
